@@ -57,7 +57,7 @@ real-time-chat-app/
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/real-time-chat-app.git
+   git clone https://github.com/rishisulakhe/real-time-chat-app.git
    cd real-time-chat-app
    ```
 
@@ -68,7 +68,7 @@ real-time-chat-app/
    npm install
 
    # Install frontend dependencies
-   cd ../frontend
+   cd frontend
    npm install
    ```
 
@@ -87,7 +87,7 @@ real-time-chat-app/
 
    **Frontend .env:**
    ```env
-   REACT_APP_BACKEND_URL=http://localhost:5000
+   REACT_APP_BACKEND_URL=http://localhost:5173
    ```
 
 4. **Run the application:**
@@ -97,7 +97,7 @@ real-time-chat-app/
    npm run dev
 
    # Start frontend server
-   cd ../frontend
+   cd frontend
    npm run dev
    ```
 
